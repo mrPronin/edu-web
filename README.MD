@@ -15,7 +15,10 @@
 - [HOW HTTPS WORKS](https://howhttps.works)
 - [HTTP Crash Course & Exploration](https://youtu.be/iYM2zFP3Zn0)
 
-### 01.03 [Domain name](https://youtu.be/Y4cRx19nhJk)
+### 01.03 Domain name
+
+- [What is a Domain Name?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_domain_name)
+- [What is a Domain Name? - A Beginners Guide to How Domain Names Work!](https://youtu.be/Y4cRx19nhJk)
 
 ### 01.04 DNS
 
@@ -24,6 +27,12 @@
 - [DNS Records](https://youtu.be/7lxgpKh_fRY)
 - [DNS Records for Newbies - How To Manage Website Records](https://youtu.be/YV5tkQYcvfg)
 
-### 01.05 [FTP](https://uk.wikipedia.org/wiki/FTP)
+### 01.05 FTP
 
-### 01.06 [How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0)
+- [FTP Wikipedia](https://uk.wikipedia.org/wiki/FTP)
+- [FTP](https://developer.mozilla.org/en-US/docs/Glossary/FTP)
+
+### 01.06 Browsers
+
+- [How browsers work](https://web.dev/howbrowserswork/)
+- [How Do Web Browsers Work?](https://youtu.be/WjDrMKZWCt0)
