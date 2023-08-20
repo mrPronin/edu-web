@@ -1,0 +1,17 @@
+@startmindmap VERSION CONTROL SYSTEMS
+<style>
+node {
+    MaximumWidth 150
+    HorizontalAlignment left
+}
+</style>
+
++ VERSION CONTROL SYSTEMS
+++ 01 Git
+++ 02 VCS Cloud
++++ 02.01 GitHub
++++ 02.02 GitLab
++++ 02.03 Bitbucket
++++ etc
+
+@endmindmap

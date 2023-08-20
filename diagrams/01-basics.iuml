@@ -6,12 +6,12 @@ node {
 }
 </style>
 
-+ 01. BASICS
-++ 01.01 How Does the Internet Work
-++ 01.02 HTTP
-++ 01.03 Domain name
--- 01.04 DNS
--- 01.05 FTP
--- 01.06 How Do Web Browsers Work?
++  BASICS
+++ 01 How Does the Internet Work
+++ 02 HTTP
+++ 03 Domain name
+-- 04 DNS
+-- 05 FTP
+-- 06 How Do Web Browsers Work?
 
 @endmindmap
