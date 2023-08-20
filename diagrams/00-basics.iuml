@@ -1,0 +1,26 @@
+@startmindmap BASICS
+<style>
+node {
+    MaximumWidth 150
+    HorizontalAlignment left
+}
+</style>
+
++ 01. BASICS
+++ 01.01 How Does the Internet Work
++++ 01.01.01 [[https://youtu.be/TNQsmPf24go How Does the Internet Work]]
++++ 01.01.02 [[https://youtu.be/7_LPdttKXPc How the Internet Works in 5 Minutes]]
+++ 01.02 HTTP
++++ 01.02.01 [[https://howhttps.works HOW HTTPS WORKS]]
++++ 01.02.02 [[https://youtu.be/iYM2zFP3Zn0 HTTP Crash Course & Exploration]]
++++ 01.02.03 [[https://uk.wikipedia.org/wiki/HTTP HTTP Wikipedia]]
+++ 01.03 [[https://youtu.be/Y4cRx19nhJk Domain name]]
+-- 01.04 DNS
+--- 01.04.01 [[https://howdns.works HOW DNS WORKS]]
+--- 01.04.02 [[https://youtu.be/Wj0od2ag5sk DNS and How does it work?]]
+--- 01.04.03 [[https://youtu.be/7lxgpKh_fRY DNS Records]]
+--- 01.04.04 [[https://youtu.be/YV5tkQYcvfg DNS Records for Newbies - How To Manage Website Records]]
+-- 01.05 [[https://uk.wikipedia.org/wiki/FTP FTP]]
+-- 01.06 [[https://youtu.be/WjDrMKZWCt0 How Do Web Browsers Work?]]
+
+@endmindmap
