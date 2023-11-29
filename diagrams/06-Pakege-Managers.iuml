@@ -1,0 +1,21 @@
+@startmindmap PACKAGE MANAGERS
+<style>
+node {
+    MaximumWidth 150
+    HorizontalAlignment left
+}
+</style>
+
++ PACKAGE MANAGERS
+++ 01 Frameworks
++++ 01.01 Tailwind
++++ 01.02 Radix UI
++++ 01.03 Shadcn UI
+++ 02 CSS Architecture
+++ 03 CSS Preprocessors
++++ 03.01 CSS Preprocessors | Basics
++++ 03.02 Sass
++++ 03.03 PostCSS
+
+
+@endmindmap
