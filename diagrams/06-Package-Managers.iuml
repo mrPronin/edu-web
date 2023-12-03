@@ -1,0 +1,15 @@
+@startmindmap PACKAGE MANAGERS
+<style>
+node {
+    MaximumWidth 150
+    HorizontalAlignment left
+}
+</style>
+
++ PACKAGE MANAGERS
+-- 01 Basics
+-- 02 npm & npx
+++ 03 yarn
+++ 04 PNPM
+
+@endmindmap
