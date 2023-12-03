@@ -7,11 +7,11 @@ node {
 </style>
 
 +  BASICS
-++ 01 How Does the Internet Work
-++ 02 HTTP
-++ 03 Domain name
--- 04 DNS
--- 05 FTP
--- 06 How Do Web Browsers Work?
+-- 01 How Does the Internet Work
+-- 02 HTTP
+-- 03 Domain name
+++ 04 DNS
+++ 05 FTP
+++ 06 How Do Web Browsers Work?
 
 @endmindmap
