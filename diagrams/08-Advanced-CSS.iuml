@@ -2,20 +2,20 @@
 <style>
 node {
     MaximumWidth 150
-    HorizontalAlignment left
+    HorizontalAlignment center
 }
 </style>
 
 + ADVANCED CSS
--- 01 Frameworks
---- 01.01 Tailwind
---- 01.02 Radix UI
---- 01.03 Shadcn UI
-++ 02 CSS Architecture
-++ 03 CSS Preprocessors
-+++ 03.01 Basics
-+++ 03.02 Sass
-+++ 03.03 PostCSS
+++ 01 Frameworks
++++ 01.01 Tailwind
++++ 01.02 Radix UI
++++ 01.03 Shadcn UI
+++ 02 CSS Preprocessors
++++ 02.01 Basics
++++ 02.02 Sass
++++ 02.03 PostCSS
+++ 03 CSS Architecture
 
 
 @endmindmap

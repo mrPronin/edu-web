@@ -1,4 +1,4 @@
-# 02. JAVA SCRIPT
+# 04. JAVA SCRIPT
 
 1. [JavaScript Basics for Beginners](https://www.udemy.com/course/javascript-basics-for-beginners/)
 2. [Object-oriented Programming in JavaScript](https://www.udemy.com/course/javascript-object-oriented-programming/)
