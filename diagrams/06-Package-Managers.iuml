@@ -2,13 +2,13 @@
 <style>
 node {
     MaximumWidth 150
-    HorizontalAlignment left
+    HorizontalAlignment center
 }
 </style>
 
 + PACKAGE MANAGERS
--- 01 Basics
--- 02 npm & npx
+++ 01 Basics
+++ 02 npm & npx
 ++ 03 yarn
 ++ 04 PNPM
 

@@ -23,27 +23,27 @@
 1. [Shadcn UI | Official Website](https://ui.shadcn.com)
 2. [Shadcn UI | Official GitHub Repository](https://github.com/shadcn-ui/ui)
 
-## 08.02 CSS Architecture
+## 08.02 CSS Preprocessors
 
-1. [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/)
-2. [BEM Official Website](https://en.bem.info)
-3. [OOCSS Official Website](http://oocss.org)
-4. [SMACSS Official Website](http://smacss.com)
-
-## 08.03 CSS Preprocessors
-
-### 08.03.01 CSS Preprocessors | Basics
+### 08.02.01 CSS Preprocessors | Basics
 
 1. [CSS Preprocessors Explained](https://www.freecodecamp.org/news/css-preprocessors/)
 2. [Why Use Preprocessors?](https://sherocommerce.com/what-is-a-css-preprocessors-why-use-them/)
 
-### 08.03.02 Sass
+### 08.02.02 Sass
 
 1. [Sass Website](https://sass-lang.com)
 2. [Sass | Official Documentation](https://sass-lang.com/documentation/)
 3. [Sass Tutorial for Beginners - CSS With Superpowers](https://youtu.be/_a5j7KoflTs?si=M39xU_jV5BdIvELS)
 4. [Sass, BEM, & Responsive Design](https://youtu.be/jfMHA8SqUL4?si=c8cLz-1w8ETKGEwE)
 
-### 08.03.03 PostCSS
+### 08.02.03 PostCSS
 
 1. [PostCSS | Official Website](https://postcss.org)
+
+## 08.03 CSS Architecture
+
+1. [A Look at Some CSS Methodologies](https://www.webfx.com/blog/web-design/css-methodologies/)
+2. [BEM Official Website](https://en.bem.info)
+3. [OOCSS Official Website](http://oocss.org)
+4. [SMACSS Official Website](http://smacss.com)
